@@ -11,7 +11,7 @@
 <p>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="50px" width="50px" href="https://www.python.org/">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="50px" width="45px" href="https://docs.microsoft.com/pt-br/cpp/cpp/">
-  <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+php+icon-1320184808306269858.png" height="50px" width="53px" href="https://www.php.net/">
+  <img src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="50px" width="54px" href="https://www.php.net/">
   <img src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png" height="50px" width="50px" href="https://pt.wikipedia.org/wiki/Bash">
   <img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="50px" width="68px" href="https://www.w3.org/standards/webdesign/htmlcss">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="50px" width="50px" href="https://pt.wikipedia.org/wiki/JavaScript">
