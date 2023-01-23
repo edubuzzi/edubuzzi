@@ -14,7 +14,7 @@
   <img src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="50px" width="54px" title="PHP">
   <img src="https://leadgenapp.io/wp-content/uploads/2022/03/c23b6298d70e5cc925a8e795e48b6898.png" height="50px" width="50px" title="MySQL">
   <img src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png" height="50px" width="50px" title="Bash">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/800px-Openlogo-debianV2.svg.png" height="50px" width="50px" title="Debian">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/800px-Openlogo-debianV2.svg.png" height="70px" width="50px" title="Debian">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="50px" width="50px" title="Python">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="50px" width="45px" title="C/C++">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Fireworks_CS6_Icon.png" height="50px" width="50px" title="Adobe Fireworks">
