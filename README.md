@@ -1,8 +1,9 @@
-# <p align="center">Hi there 👋<p>
-## <p align="center">Back/web dev from Blumenau, Brazil.<p>
+# <p align="center">Hello there 👋<p>
+## <p align="center">Back-end | Front-end | Web Developer<p>
   
 ![](https://komarev.com/ghpvc/?username=edubuzzi&color=blue)
   
+- 🔭 I’m currently working on PHP, HTML5/CSS3, JavaScript, jQuery and TailwindCSS
 - 🌱 I’m currently learning <b>PHP and JavaScript<b>
   
 - 📫 How to reach me: contato@eduardobuzzi.dev
@@ -10,10 +11,13 @@
 ## Languages and Tools:
 <p>
   <img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="50px" width="68px" title="HTML5 & CSS3">
+  <img src="https://d4.alternativeto.net/ueWmw4emviWyu_5kk6rtKQUa-fzlOjp9DAktvfBDdlE/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90YWlsd2luZC1jc3NfMTM2NjE5LnBuZw.png" height="50px" width="50px" title="TailwindCSS">
+  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" height="50px" width="50px" title="Bootstrap">
+  <img src="https://downloadly.net/wp-content/uploads/2020/03/MDBootstrap.png" height="50px" width="50px" title="MDBootstrap">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="50px" width="50px" title="JavaScript">
   <img src="https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif" height="50px" width="50px" title="jQuery">
-  <img src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="50px" width="54px" title="PHP">
-  <img src="https://leadgenapp.io/wp-content/uploads/2022/03/c23b6298d70e5cc925a8e795e48b6898.png" height="50px" width="50px" title="MySQL">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" height="50px" width="54px" title="PHP">
+  <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" height="50px" width="50px" title="MySQL">
   <img src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png" height="50px" width="50px" title="Bash">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="50px" width="50px" title="Python">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="50px" width="45px" title="C/C++">
