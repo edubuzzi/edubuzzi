@@ -11,6 +11,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="50px" width="68px" title="HTML5 & CSS3">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="50px" width="50px" title="JavaScript">
+  <img src="https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif" height="50px" width="50px" title="jQuery">
   <img src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="50px" width="54px" title="PHP">
   <img src="https://leadgenapp.io/wp-content/uploads/2022/03/c23b6298d70e5cc925a8e795e48b6898.png" height="50px" width="50px" title="MySQL">
   <img src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png" height="50px" width="50px" title="Bash">
