@@ -3,9 +3,9 @@
   
 ![](https://komarev.com/ghpvc/?username=edubuzzi&color=blue)
   
-- 🌱 I’m currently learning <b>PHP, Python and C++<b>
+- 🌱 I’m currently learning <b>PHP and JavaScript<b>
   
-- 📫 How to reach me: eduardobuzzi@protonmail.com
+- 📫 How to reach me: contato@eduardobuzzi.dev
   
 ## Languages and Tools:
 <p>
