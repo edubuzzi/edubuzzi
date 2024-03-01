@@ -1,8 +1,6 @@
 # <p align="center">Hello there 👋<p>
 ## <p align="center">Back-end | Front-end | Web Developer<p>
   
-![](https://komarev.com/ghpvc/?username=edubuzzi&color=blue)
-  
 - 🔭 I’m currently working on PHP, HTML5/CSS3, JavaScript, jQuery and TailwindCSS
 - 📫 How to reach me: contato@eduardobuzzi.top
   
